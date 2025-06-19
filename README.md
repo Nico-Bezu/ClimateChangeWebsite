@@ -94,7 +94,7 @@ src/
 │   └── page.tsx        # Main dashboard page
 ├── components/         # React components
 │   ├── AIClimateChat.tsx    # AI chatbot component
-│   ├── ClimateMap.tsx       # Interactive map
+
 │   └── ClimateStats.tsx     # Statistics dashboard
 ├── lib/                # Utility functions and data
 │   └── climate-data.ts # Mock climate data and helpers

@@ -38,11 +38,7 @@ export interface ChatMessage {
   timestamp: Date;
 }
 
-export interface ClimateMapProps {
-  locations: ClimateLocation[];
-  onLocationSelect?: (location: ClimateLocation) => void;
-  selectedLocation?: ClimateLocation | null;
-}
+
 
 export interface WeatherApiResponse {
   main: {
