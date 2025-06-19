@@ -1,1 +1,0 @@
-Hi, this is the Climate Change website where a team of four Yale students are trying to fight climate change!
