@@ -8,12 +8,10 @@
     --foreground: 222.2 84% 4.9%;
   }
 
-  * {
-    @apply border-gray-200;
-  }
+
   
   body {
-    @apply bg-background text-foreground;
+    @apply bg-white text-gray-900;
   }
 }
 
@@ -31,15 +29,4 @@
   }
 }
 
-/* Leaflet map styles */
-.leaflet-container {
-  height: 100%;
-  width: 100%;
-  z-index: 0;
-}
-
-.climate-marker {
-  border-radius: 50%;
-  border: 2px solid white;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
-} 
+ 
